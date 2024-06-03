@@ -7,7 +7,7 @@ public class Main {
         singleLinkedList.insertInLinkedList(2, 1);
         singleLinkedList.insertInLinkedList(3, 2);
         singleLinkedList.insertInLinkedList(4, 3);
-//        singleLinkedList.insertInLinkedList(5, 1);
+        singleLinkedList.insertInLinkedList(5, 1);
         singleLinkedList.traverseLinkedList();
         singleLinkedList.searchNode(4);
     }
